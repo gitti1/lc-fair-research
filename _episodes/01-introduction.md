@@ -32,29 +32,29 @@ As a trusted partner, and with an embedded understanding of their communities, l
 
 El-Gebali, Sara. (2020, September 29). Research Data Life Cycle. Zenodo. [http://doi.org/10.5281/zenodo.4057867](http://doi.org/10.5281/zenodo.4057867)
 
-## FAIR in one sentence
+## FAIR in a nutshell
 
-The FAIR data principles are all about how machines and humans communicate with each other. They are not a standard, but a set of principles for developing robust, extensible infrastructure which facilitates discovery, access and reuse of research data and software.
+The FAIR data principles are all about how machines and humans interact with data. They are not a standard, but a set of principles for developing robust, extensible infrastructure which facilitates discovery, access and reuse of research data and software.
 
 ## Where did FAIR come from?
 
-The FAIR data principles emerged from a FORCE11 workshop in 2014. This was formalised in 2016 when these were published in Scientific Data: [FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). In this article, the authors provide general guidance on machine-actionability and improvements that can be made to streamline the findability, accessibility, interoperatbility, and reuability (FAIR) of digital assets.   
+The FAIR data principles emerged from a FORCE11 workshop in 2014. This was formalised in 2016 when these were published in Scientific Data: [FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). In this article, the authors provide general guidance on machine-actionability and improvements that can be made to streamline the findability, accessibility, interoperability, and reuability (FAIR) of digital assets.   
 
-"as open as possible, as closed as necessary"
+FAIR data should be "as open as possible, as closed as necessary", that is "open" in order to facilitate reuse and "closed" to safeguard the privacy of subjects. Data can be both FAIR and open, one of these, or neither. For a discussion of the intersections, boundaries and limitations of data management, FAIR and open data compare [Higman et al](https://doi.org/10.1629/uksg.468).
 
 ## FAIR brings all the stakeholders together
 
-We all win when the outputs of research are properly managed, preserved and reusable. This is applicable from big data of genomic expression all the way through to the ‘small data’ of qualitative research. 
+We all win when the outputs of research are properly managed, preserved and reusable. This is applicable from big data of genomic expression all the way through to the long tail of ‘small data’ of qualitative and quantitative research. 
 
-Research is increasingly dependent on computational support and yet there are still many bottlenecks in the process. The overall aim of FAIR is to cut down on the inefficient processes in research by taking advantage of linked resources and the exchange of data so that all stakeholders in the research ecosystem, can automate repetitive, boring, error-prone tasks.
+Research is increasingly dependent on computational support and yet there are still many bottlenecks in the process. The overall aim of FAIR is to cut down inefficiencies in research processes by taking advantage of linked resources and the exchange of data so that all stakeholders in the research ecosystem, can automate repetitive, boring, error-prone tasks.
 
 ## Examples of Library Services implementing the FAIR principles
 
   * If your local data repository shares metadata with other aggregators, it's F for Findable.
   * If you advocate for researchers to use ORCIDs and seek DOIs for research data outputs, it's F for Findable
-  * If your institution mints DOIs for research datasets... that's A for Accessible.
-  * If your institutional data repository enables metadata for harvest by an aggregator, that's I for Interoperable.
-  * If you provide advice and consultation services for choosing licences for research data, that's R for Reusable
+  * If your institution mints DOIs for research datasets, that's A for Accessible.
+  * If your institutional data repository enables metadata for harvesting by an aggregator, that's I for Interoperable.
+  * If you provide advice and consultation services for choosing licences for research data, that's R for Reusable.
 
 ## Further reading following this lesson
 
