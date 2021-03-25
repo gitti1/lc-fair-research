@@ -40,9 +40,9 @@ The FAIR data principles are all about how machines and humans interact with dat
 
 The FAIR data principles emerged from a FORCE11 workshop in 2014. This was formalised in 2016 when these were published in Scientific Data: [FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). In this article, the authors provide general guidance on machine-actionability and improvements that can be made to streamline the findability, accessibility, interoperability, and reuability (FAIR) of digital assets.   
 
-FAIR data should be "as open as possible, as closed as necessary", that is "open" in order to facilitate reuse and "closed" to safeguard the privacy of subjects. Data can be both FAIR and open, one of these, or neither. For a discussion of the intersections, boundaries and limitations of data management, FAIR and open data compare [Higman et al](https://doi.org/10.1629/uksg.468).
+FAIR data should be "as open as possible, as closed as necessary", that is "open" in order to facilitate reuse and "closed" to safeguard sensitive data. Data can be both FAIR and open, one of these, or neither. For a discussion of the intersections, boundaries and limitations of data management, FAIR and open data compare [Higman et al. (2019)](https://doi.org/10.1629/uksg.468).
 
-## FAIR brings all the stakeholders together
+## FAIR brings all stakeholders together
 
 We all win when the outputs of research are properly managed, preserved and reusable. This is applicable from big data of genomic expression all the way through to the long tail of ‘small data’ of qualitative and quantitative research. 
 
@@ -68,9 +68,9 @@ The European Commission gives tips on implementing FAIR: [Six Recommendations fo
 Group exercise
 Use an etherpad / whiteboard
 
-* Does your institutional data management policy refer to FAIR principles?
+* Does your institutional data management policy refer to the FAIR principles?
 
-* If you have a data management planning tool (eg DMP online) go through the mandatory fields and identify where there are FAIR teaching moments.
+* If you have a data management planning tool (e.g. DMPonline) go through the mandatory fields and identify where there are FAIR teaching moments.
 
 * Compile a list of research management tools that your institution provides access to and brainstorm examples where these tools embody the FAIR data principles.
 
